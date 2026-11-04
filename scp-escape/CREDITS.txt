@@ -1,0 +1,15 @@
+R.R.T ESCAPE - CREDITS
+Game code, level and procedural art: made for Aidyn Shippey (@sluppycow).
+Campaign writing: lore-and-missions.md (Site-Ember, Overwatch, Doc Holloway, SCP-X-Lantern; SCP numbers are made up).
+
+3D MODELS
+- Zombie ("Hollow") body + animations: Universal Animation Library (Mannequin) by Quaternius, CC0 1.0
+  https://quaternius.com  (file: assets/models/AnimationLibrary_Godot_Standard.gltf/.bin)
+- Operator body + animations: Soldier.glb from the three.js examples (r128), github.com/mrdoob/three.js, MIT.
+  The character originally comes from Mixamo (Adobe); it is redistributed in the three.js repo.
+
+LIBRARIES
+- three.js r128 + examples (GLTFLoader, SkeletonUtils, EffectComposer, SSAOPass, UnrealBloomPass, SimplexNoise, shaders), MIT License, (c) three.js authors.
+
+SCP Foundation concept: SCP Wiki, CC BY-SA 3.0 (http://scp-wiki.wikidot.com).
+All sounds are generated live with WebAudio. No outside audio files.
